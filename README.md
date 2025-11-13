@@ -1,5 +1,5 @@
 # pwnedpasswordlookup
-Export your Bitwarden vault and check it against HIBP PwnedPasswords
+Export your Bitwarden vault and check it against HIBP PwnedPasswords. Delete the export after checking.
 
 ## Export your Bitwarden vault to JSON Using the Bitwarden Chrome Extension
 
