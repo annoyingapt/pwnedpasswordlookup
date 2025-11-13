@@ -1,12 +1,16 @@
 # pwnedpasswordlookup
+Export your Bitwarden vault and check it against HIBP PwnedPasswords
 
-## Exporting your Bitwarden vault to JSON
+## Export your Bitwarden vault to JSON Using the Bitwarden Chrome Extension
 
-1. Log in to your Bitwarden web vault at https://vault.bitwarden.com/.
-2. Go to **Tools** > **Export Vault**.
-3. Select **JSON (.json)** as the export format.
-4. Enter your master password and click **Export Vault**.
-5. Save the exported file (e.g., `bitwarden_export.json`) securely.
+1. Click the Bitwarden extension icon in your Chrome browser.
+2. Log in to your vault if prompted.
+3. Click the gear icon (Settings) in the lower right corner of the extension popup.
+4. Select **Vault Options**.
+5. Select **Export Vault**.
+6. Choose **JSON (.json)** as the export format.
+7. Enter your master password and confirm the export.
+8. Save the exported file (e.g., `bitwarden_export.json`) securely.
 
 ## Running the Pwned Password Lookup
 
