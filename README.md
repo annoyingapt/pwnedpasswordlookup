@@ -1,4 +1,8 @@
 # pwnedpasswordlookup
+
+## Reference
+
+- [Have I Been Pwned Pwned Passwords API Documentation](https://haveibeenpwned.com/api/v3#PwnedPasswords)
 Export your Bitwarden vault and check it against HIBP PwnedPasswords. Delete the export after checking.
 
 ## Export your Bitwarden vault to JSON using the Bitwarden Chrome extension
