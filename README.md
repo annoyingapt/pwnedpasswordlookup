@@ -1,9 +1,5 @@
 # pwnedpasswordlookup
 
-## Description
-
-Export your Bitwarden vault and check it against HIBP PwnedPasswords. Delete the export after checking.
-
 ## Reference
 
 - [Have I Been Pwned Pwned Passwords API Documentation](https://haveibeenpwned.com/api/v3#PwnedPasswords)
