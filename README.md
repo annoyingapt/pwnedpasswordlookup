@@ -4,30 +4,30 @@
 
 - [Have I Been Pwned Pwned Passwords API Documentation](https://haveibeenpwned.com/api/v3#PwnedPasswords)
 
-## Export your Bitwarden vault to JSON using the Bitwarden Chrome extension
+## Exporting from Bitwarden browser extension
 
-1. Click the Bitwarden extension icon in your Chrome browser.
+1. Click the Bitwarden extension icon in your browser.
 2. Log in to your vault if prompted.
 3. Click the gear icon (Settings) in the lower right corner of the extension popup.
 4. Select **Vault Options**.
 5. Select **Export Vault**.
-6. Choose **JSON (.json)** as the export format.
+6. Choose **JSON (.json)** or **CSV (.csv)** as the export format.
 7. Enter your master password and confirm the export.
 8. Save the exported file (e.g., `bitwarden_export.json`) securely.
 
 
-## Exporting from LastPass (CSV)
+## Exporting from LastPass
 
 1. Log in to your LastPass vault via the web.
 2. Go to **Advanced Options** > **Export**.
 3. Enter your master password and confirm the export.
 4. Save the file (e.g., `lastpass_export.csv`).
 
-## Exporting from Bitwarden (CSV)
+## Exporting from Bitwarden Vault
 
-1. Log in to your Bitwarden web vault or use the desktop app.
+1. Log in to your Bitwarden vault via the web.
 2. Go to **Tools** > **Export Vault**.
-3. Select **CSV (.csv)** as the export format.
+3. Choose **JSON (.json)** or **CSV (.csv)** as the export format.
 4. Enter your master password and export.
 5. Save the exported file (e.g., `bitwarden_csv_export.csv`).
 
